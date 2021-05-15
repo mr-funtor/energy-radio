@@ -324,8 +324,12 @@ body{
 
 .footer-section{
 	width:100%;
-	min-height: 50vh;
+	min-height: 30vh;
 	background: #393737;
+	padding: 30px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
 }
 
 
